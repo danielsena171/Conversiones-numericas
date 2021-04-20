@@ -4,3 +4,4 @@
 - **Integrantes**
 
 1. Daniel Julian Sena Causil (institucional)
+2. Sebastian Bermudez Ceballos (colaborador)

@@ -1,0 +1,25 @@
+{
+  "name": "Conversiones-numericas",
+  "version": "1.0.0",
+  "description": "*Este proyecto trata de un cuestionario que se hará con la temática de conversiones numéricas, se explicaran los temas y con base a eso se resolverán preguntas.*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielsena171/Conversiones-numericas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielsena171/Conversiones-numericas/issues"
+  },
+  "homepage": "https://github.com/danielsena171/Conversiones-numericas#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
